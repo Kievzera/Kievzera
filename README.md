@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi Stranger, I'm Kievzera and thats my github ![image](https://user-images.githubusercontent.com/101614045/159417236-cb55e9fa-6564-482c-b802-195170c6acb6.png)
 
-<!--
-**Kievzera/Kievzera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m currently learning <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ 
+- ![image](https://user-images.githubusercontent.com/101614045/159416785-1e947782-7ec3-4bb5-b924-c453838c5ced.png) Pronouns: He/His
+- <a href="https://www.instagram.com/kievzera/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+
+
+
+Thanks for your attetion, and feel free to comeback ![image](https://user-images.githubusercontent.com/101614045/159416996-0cc8a34a-8b6f-4605-82e9-d528c5fd1a7d.png)
