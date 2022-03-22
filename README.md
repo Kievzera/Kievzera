@@ -1,10 +1,10 @@
-### Hi Stranger, I'm Kievzera and thats my github ![image](https://user-images.githubusercontent.com/101614045/159417236-cb55e9fa-6564-482c-b802-195170c6acb6.png)
+### Hi Stranger, I'm Kievzera and this is my github ![image](https://user-images.githubusercontent.com/101614045/159417236-cb55e9fa-6564-482c-b802-195170c6acb6.png)
 
 
 
 - I’m currently learning <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  
-- ![image](https://user-images.githubusercontent.com/101614045/159416785-1e947782-7ec3-4bb5-b924-c453838c5ced.png) Pronouns: He/His
+- ![image](https://user-images.githubusercontent.com/101614045/159416785-1e947782-7ec3-4bb5-b924-c453838c5ced.png) Pronouns: He/Him
 - <a href="https://www.instagram.com/kievzera/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rafael-oliveira-marques-061a66234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "https://rafaelkiev47@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
