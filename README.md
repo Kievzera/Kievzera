@@ -1,4 +1,4 @@
-### Hi Stranger, I'm Kievzera and this is my github ![image](https://user-images.githubusercontent.com/101614045/159417236-cb55e9fa-6564-482c-b802-195170c6acb6.png)
+### Hi Stranger, I'm Kievzera and this is my github !
 
 
 
